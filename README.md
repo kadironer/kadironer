@@ -7,7 +7,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kadir_oner46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kadir_oner46" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kadir-oner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kadir-oner/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kadir-oner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir-oner" height="30" width="40" /></a>
 <a href="https://instagram.com/kadir_oner46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kadir_oner46" height="30" width="40" /></a>
 <a href="https://discord.gg/K.Ö#4787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K.Ö#4787" height="30" width="40" /></a>
 </p>
