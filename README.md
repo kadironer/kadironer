@@ -12,8 +12,10 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<p align="center"
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadironer&show_icons=true&theme=synthwave&locale=en" alt="kadironer" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadironer&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="kadironer" /></p>
+</p>
 
 
