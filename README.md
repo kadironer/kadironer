@@ -17,6 +17,6 @@
 <p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadironer&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="kadironer" /></p>
 </p>
-</p>
+
 
 
