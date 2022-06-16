@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadironer&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="kadironer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadironer&show_icons=true&theme=merko&locale=en" alt="kadironer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadironer&show_icons=true&theme=synthwave&locale=en" alt="kadironer" /></p>
