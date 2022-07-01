@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://readme-typing-svg.herokuapp.com?color=FFBD14&background=FFD3E900&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+!+I'm+Kadir+Oner;Flutter+Developer+%26+UI+Designer"
+<a href="https://readme-typing-svg.herokuapp.com/?color=FFBD14&background=FFD3E900&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+!+I'm+Kadir+Oner;Flutter+Developer+%26+UI+Designer"
 </p>
 
 
