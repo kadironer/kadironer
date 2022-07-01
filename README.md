@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFBD14&background=FFD3E900&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+!+I'm+Kadir+Oner;Flutter+Developer+%26+UI+Designer)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://readme-typing-svg.herokuapp.com?color=FFBD14&background=FFD3E900&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+!+I'm+Kadir+Oner;Flutter+Developer+%26+UI+Designer"
+</p>
 
 
 <h3 align="center">Connect with me:</h3>
