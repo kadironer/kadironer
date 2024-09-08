@@ -40,5 +40,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadironer&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ---
-  [![](https://visitcount.itsvg.in/api?id=kadironer&icon=0&color=2)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=kadironer&icon=0&color=white)](https://visitcount.itsvg.in)
 </div>
