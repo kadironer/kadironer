@@ -1,6 +1,6 @@
 <div align="center">
     <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FFBD14&background=FFD3E900&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+!+I'm+Kadir+Oner;iOS+Developer+%26+UI+Designer">
+        <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=FF652E&background=FFD3E900&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+!+I'm+Kadir+Oner;iOS+Developer+%26+UI+Designer">
     </p>
 
 ## 🌐 Socials:
