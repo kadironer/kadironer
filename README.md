@@ -3,20 +3,13 @@
         <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=ff79c6&background=FFD3E900&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+!+I'm+Kadir+Oner;iOS+Developer+%26+UI+Designer">
     </p>
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/kadirr_oner)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kadirr_oner)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kadirr_oner46)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadir-oner)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/kadir_oner)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kadironer/kadironer/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kadironer/kadironer/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kadironer/kadironer/pacman-output/breakout-contribution-graph.svg">
-</picture>
 
 ###
 
